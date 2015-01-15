@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: TOYO blog
+name: TOYO blog (とよぶろぐ)
 
 # Short bio or description (displayed in the header)
 description: Singer and Web Developer
@@ -18,7 +18,7 @@ avatar: https://avatars2.githubusercontent.com/u/1742149?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: takaty2011@gmail.com
+  email: 
   facebook: 
   flickr: 
   github: takasing/takasing.github.io
