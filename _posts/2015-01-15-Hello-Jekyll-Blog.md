@@ -12,12 +12,10 @@ title: Jekyll Nowでブログ始めてみる
 普通にMarkdownで書く
 
 ## 画像の使い方
-![松中フライング]({{ site.baseurl }}/images/matsunaka_flying.gif)
-
+![松中フライング]({{ site.baseurl }}/images/matsunaka_flying.gif)  
 ```
 ![alt here]({{ site.baseurl }}/images/画像ファイル名)
-```
-
+```  
 すでに画像用ディレクトリ掘られてるっぽいのでそれを利用したらよさそう。
 
 ## 感想
