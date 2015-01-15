@@ -21,3 +21,8 @@ title: Jekyll Nowでブログ始めてみる
 ## 感想
 構築めちゃ楽だった。  
 markdownを本気で書いたこと無いのでこのブログで色々更新するのも有りかな。
+
+## 追記
+1. GoogleAnalyticsの設定を入れた。```_config.yml```にプロパティIDを書くだけ。
+1. コメントフォームを追加した。```_config.yml```のdisqusにdisqusで取得したshortnameを書くだけ。  
+disqusではユーザー登録した後、サイトを登録したらshortnameが取得できる。
