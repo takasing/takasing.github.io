@@ -25,6 +25,8 @@ markdownを本気で書いたこと無いのでこのブログで色々更新す
 ## 参考
 * [クリック1発で、Github上にブログを無料で作成できる「Jekyll Now」が超絶便利！](http://plus.appgiga.jp/masatolan/2015/01/13/55047/)
 * [Github Pages と お名前.com のカスタムドメイン設定](http://blog.kazuya.co/other/2014/05/02/github-page-onamae-custom-domain.html)
+* [お名前.comで取得したドメインをGithub Pagesに設定してみよう](http://kia-king.com/blog/tutorial/how-to-set-custom-domain-to-github-pages/)
+* [My custom domain isn't working](https://help.github.com/articles/my-custom-domain-isn-t-working/)
 
 ## 追記
 1. GoogleAnalyticsの設定を入れた。```_config.yml```にプロパティIDを書くだけ。
