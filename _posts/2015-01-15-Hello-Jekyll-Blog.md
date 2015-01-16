@@ -22,6 +22,9 @@ title: Jekyll Nowでブログ始めてみる
 構築めちゃ楽だった。  
 markdownを本気で書いたこと無いのでこのブログで色々更新するのも有りかな。
 
+## 参考
+* [クリック1発で、Github上にブログを無料で作成できる「Jekyll Now」が超絶便利！](http://plus.appgiga.jp/masatolan/2015/01/13/55047/)
+
 ## 追記
 1. GoogleAnalyticsの設定を入れた。```_config.yml```にプロパティIDを書くだけ。
 1. コメントフォームを追加した。```_config.yml```のdisqusにdisqusで取得したshortnameを書くだけ。  
